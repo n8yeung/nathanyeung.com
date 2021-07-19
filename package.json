@@ -1,0 +1,26 @@
+{
+  "name": "nathanyeung.com",
+  "version": "1.0.0",
+  "description": "nathanyeung.com site",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n8yeung/nathanyeung.com.git"
+  },
+  "keywords": [
+    "nathanyeung.com"
+  ],
+  "author": "Nathan Yeung",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/n8yeung/nathanyeung.com/issues"
+  },
+  "homepage": "https://github.com/n8yeung/nathanyeung.com#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
