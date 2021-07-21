@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 
 // Home
-app.get("/", (req, res) => res.send("Home Page Route"));
+app.get("/", (req, res) => res.send("<h1>Home Page Route</h1>"));
 
 // About
 app.get("/about", (req, res) => res.send("About Page Route"));
