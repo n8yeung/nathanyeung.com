@@ -1,6 +1,16 @@
+html,
+body {
+  margin: auto 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
 .disclaimer {
   color: #cccccc;
   background-color: #333333;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.highlight-service {
+  background: #336699;
+  color: #ffffcc;
 }
