@@ -1,16 +1,21 @@
-html,
-body {
-  margin: auto 0;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+.logo {
+  height: 100px;
 }
 
-.disclaimer {
-  color: #cccccc;
-  background-color: #333333;
+.bg-royal-blue {
+  background-color: #001e6b;
 }
 
-.highlight-service {
-  background: #336699;
-  color: #ffffcc;
+.jumbotron {
+  background-color: #e8faff;
+}
+
+.typing::after {
+  content: "|";
+  position: absolute;
+  right: 0;
+  width: 100%;
+  color: black;
+  background-color: white;
+  animation: typing 2s steps(2) forwards, caret 1s infinite;
 }
