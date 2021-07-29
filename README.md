@@ -1,1 +1,6 @@
-# Source code for nathanyeung.com
+# Technology stack 
+## NodeJS 
+## EJS 
+## Express 
+
+Copyright nathanyeung.com
