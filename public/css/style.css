@@ -16,7 +16,7 @@
   justify-content: center;
 }
 
-.typing {
+h1.typing {
   color: #fff;
   font-family: monospace;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
